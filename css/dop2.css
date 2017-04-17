@@ -1,0 +1,26 @@
+.form_row {
+	margin-bottom: 8px;
+	overflow: hidden;
+}
+.form_row input {
+	float: right;
+	height: 19px;
+	line-height: 19px;
+	padding: 0px 5px;
+	width: 287px;
+	border: 1px solid #ABADB3;
+}
+
+.reg-form {
+	width: 416px;
+	margin: 0px auto;
+}
+h1{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+form-row input[type=submit]:hover{
+	background: #286090;
+}
